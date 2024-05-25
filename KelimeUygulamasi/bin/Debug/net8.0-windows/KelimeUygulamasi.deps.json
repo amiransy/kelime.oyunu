@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KelimeUygulamasi/1.0.0": {
+        "runtime": {
+          "KelimeUygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KelimeUygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
